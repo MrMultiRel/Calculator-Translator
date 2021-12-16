@@ -1,0 +1,11 @@
+D:\Dima\ТРПО\Калькулятор и переводчик систем счисления\Project\Project\bin\Debug\Project.exe.config
+D:\Dima\ТРПО\Калькулятор и переводчик систем счисления\Project\Project\bin\Debug\Project.exe
+D:\Dima\ТРПО\Калькулятор и переводчик систем счисления\Project\Project\bin\Debug\Project.pdb
+D:\Dima\ТРПО\Калькулятор и переводчик систем счисления\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Dima\ТРПО\Калькулятор и переводчик систем счисления\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Dima\ТРПО\Калькулятор и переводчик систем счисления\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Dima\ТРПО\Калькулятор и переводчик систем счисления\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Dima\ТРПО\Калькулятор и переводчик систем счисления\Project\Project\obj\Debug\Project.exe
+D:\Dima\ТРПО\Калькулятор и переводчик систем счисления\Project\Project\obj\Debug\Project.pdb
+D:\Dima\ТРПО\Калькулятор и переводчик систем счисления\Project\Project\obj\Debug\Project.Translator.resources
+D:\Dima\ТРПО\Калькулятор и переводчик систем счисления\Project\Project\obj\Debug\Project.Calculator.resources
